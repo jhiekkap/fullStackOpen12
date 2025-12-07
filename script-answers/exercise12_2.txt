@@ -1,0 +1,14 @@
+Script started on Sun Dec  7 16:55:57 2025
+Restored session: Sun Dec  7 16:54:46 CET 2025
+[1m[7m%[27m[1m[0m                                                                                           ]7;file://ba6a4cc1-7dc8-4633-b7c4-e88f2e2e3ddb.fritz.box/Users/jarihiekkapelto/Documents/courses/part12-containers-applications/script-answers[0m[27m[24m[Jjarihiekkapelto@ba6a4cc1-7dc8-4633-b7c4-e88f2e2e3ddb script-answers % [K[?2004h[7mdocker container run [7m-[7mit ubuntu bash[27m[K[A[55C[27md[27mo[27mc[27mk[27me[27mr[27m [27mc[27mo[27mn[27mt[27ma[27mi[27mn[27me[27mr[27m [27mr[27mu[27mn[27m -[27mi[27mt[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27mb[27ma[27ms[27mh[?2004l
+[?2004h]0;root@33914224fa47: /root@33914224fa47:/# mkdir [7m/usr/src/app[27m/usr/src/app
+[?2004l[?2004h]0;root@33914224fa47: /root@33914224fa47:/# touch [7m/usr/src/app/index.js[27m/usr/src/app/index.js
+[?2004l[?2004h]0;root@33914224fa47: /root@33914224fa47:/# [Kexit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                           ]7;file://ba6a4cc1-7dc8-4633-b7c4-e88f2e2e3ddb.fritz.box/Users/jarihiekkapelto/Documents/courses/part12-containers-applications/script-answers[0m[27m[24m[Jjarihiekkapelto@ba6a4cc1-7dc8-4633-b7c4-e88f2e2e3ddb script-answers % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Dec  7 16:56:47 2025
